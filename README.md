@@ -1,3 +1,5 @@
+Link to live version: https://lab-calculator-44198.web.app/
+
 This is React website created for quickly calculating PCR MasterMix amounts and generating
 a wells layout by taking in simple raw data (ie. sample numbers and control amounts). The backend was built
 using Firebase to add Authentication and Database access for user to create their own mix ratios.
